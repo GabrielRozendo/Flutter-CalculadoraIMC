@@ -4,7 +4,8 @@ Calculadora de IMC usando Flutter
 
 ## App #2 Cálculo do IMC
 
-Curso https://www.udemy.com/curso-completo-flutter-app-android-ios/
+Curso de Flutter do DanielCiolfi na Udemy - App #2 Calculadora de IMC
+<https://www.udemy.com/curso-completo-flutter-app-android-ios/>
 
 ### Screen Shot
 
